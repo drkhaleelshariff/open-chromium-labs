@@ -678,9 +678,9 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 DOM              CSS
 
-└──────┬──────────┘```
+└──────┬──────────┘
 
-```    ▼
+&#x20;      ▼
 
 &#x20;           Layout
 
