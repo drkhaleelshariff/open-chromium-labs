@@ -232,25 +232,25 @@ At a high level, you will encounter components such as :
 
 Browser Process
 
-&#x20;     │
+│
 
-&#x20;     ├── Navigation
+├── Navigation
 
-&#x20;     ├── Browser UI
+├── Browser UI
 
-&#x20;     ├── Process management
+├── Process management
 
-&#x20;     └── Coordination
+└── Coordination
 
-&#x20;             │
+&#x20; │
 
-&#x20;             ├────────────┐
+&#x20; ├────────────┐
 
-&#x20;             ▼               ▼
+&#x20; ▼               ▼
 
-&#x20;      Network Service    Renderer Process
+&#x20;Network Service    Renderer Process
 
-&#x20;                             │
+&#x20;                       │
 
 &#x20;                             ▼
 
