@@ -264,6 +264,8 @@ Network Service    Renderer Process
 
 
 
+```
+
 Browser / Renderer / Services
 
 &#x20;             │
@@ -274,7 +276,7 @@ Browser / Renderer / Services
 
 &#x20;         Other services
 
-
+```
 
 Renderer
 
