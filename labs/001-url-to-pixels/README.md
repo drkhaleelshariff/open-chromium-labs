@@ -988,7 +988,9 @@ The later laboratories will progressively take you deeper into Chromium's implem
 
 ```
 
-The Chromium project provides detailed architectural documentation covering its multi-process architecture and how web pages are displayed. These documents are useful references for this laboratory.
+The Chromium project provides detailed architectural documentation covering its multi-process architecture 
+
+and how web pages are displayed. These documents are useful references for this laboratory.
 
 
 
