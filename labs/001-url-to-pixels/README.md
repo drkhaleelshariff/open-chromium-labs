@@ -450,7 +450,7 @@ DOM
 
 ```CSS            JavaScript```
 
-│              │
+```│              │```
 
 ▼              ▼
 
