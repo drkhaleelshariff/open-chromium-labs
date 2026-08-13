@@ -400,6 +400,8 @@ Correlation Exercise
 
 Complete the following table.
 
+```
+
 **------------------------------------------------------------------**
 
 **| Observation                           | Architecture Component |**
@@ -419,6 +421,8 @@ Complete the following table.
 **| Web content is processed              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
 **------------------------------------------------------------------**
+
+```
 
 Do not expect DevTools to directly label every internal process.
 
