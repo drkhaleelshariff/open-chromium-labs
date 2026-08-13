@@ -400,25 +400,25 @@ Correlation Exercise
 
 Complete the following table.
 
+**------------------------------------------------------------------**
 
+**| Observation                           | Architecture Component |**
 
-| Observation | Architecture Component |
+**|---------------------------------------|------------------------|**
 
-|---|---|
+**| User enters URL                       | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| User enters URL | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+**| Navigation begins                     | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| Navigation begins | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+**| Network request occurs                | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| Network request occurs | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+**| Web server responds                   | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| Web server responds | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+**| HTML becomes available to the browser | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| HTML becomes available to the browser | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+**| Web content is processed              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |**
 
-| Web content is processed | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
-
+**------------------------------------------------------------------**
 
 Do not expect DevTools to directly label every internal process.
 
@@ -426,35 +426,21 @@ Do not expect DevTools to directly label every internal process.
 
 The purpose of this exercise is to learn the difference between:
 
-
-
-&#x20;   Observable browser behaviour
-
-
+&#x20;   **Observable browser behaviour**
 
 and:
 
-
-
-&#x20;   Internal browser architecture
-
-
-
-\---
+&#x20;   **Internal browser architecture**
 
 
 
-\# Important Lesson
+**Important Lesson**
 
 
 
 The Network panel is an observation tool.
 
-
-
 It does not provide a literal window into every Chromium process.
-
-
 
 For example, seeing an HTTP request in DevTools does not mean that the
 
