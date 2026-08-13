@@ -80,6 +80,46 @@ Correlate observable behaviour with Chromium's architecture.
 
 At a conceptual level, the journey looks like this:
 
+```text
+
+USER
+
+&#x20; |
+
+&#x20; | enters URL
+
+&#x20; v
+
++-------------+
+
+|   Omnibox   |
+
++-------------+
+
+&#x20;      |
+
+&#x20;      v
+
++----------------+
+
+| Browser Process|
+
++----------------+
+
+&#x20;      |
+
+&#x20;      | Navigation
+
+&#x20;      v
+
++----------------+
+
+| Network Service|
+
++----------------+
+
+```
+
 
 
 &#x20;                        USER
