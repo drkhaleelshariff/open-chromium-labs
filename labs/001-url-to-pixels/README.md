@@ -1070,19 +1070,12 @@ when using Chromium source code or Chromium-derived materials.
 **References**
 
 ```
-\- Chromium Project — official architecture documentation
-
-\- Chromium source code and design documentation
-
-\- Perfetto documentation
-
-\- Chrome Developers documentation
-
-
+- Chromium Project — official architecture documentation
+- Chromium source code and design documentation
+- Perfetto documentation
+- Chrome Developers documentation
 
 All instructional text, diagrams, exercises and explanations in
-
 Open Chromium Labs are original educational material unless explicitly
-
 identified otherwise.
 
