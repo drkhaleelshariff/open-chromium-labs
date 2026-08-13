@@ -252,15 +252,15 @@ Network Service    Renderer Process
 
                       │
 
-.                     ▼
+                      ▼
 
-.                   Blink
+                    Blink
 
-.                     │
+                      │
 
-.                     ▼
+                      ▼
 
-.                     V8
+                      V8
 
 
 
