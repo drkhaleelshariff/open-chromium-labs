@@ -1011,9 +1011,9 @@ In the next laboratory, we will stop looking at Chromium as a single conceptual 
 
 ```
 
-**```**
+```
 
-**You will examine:**
+You will examine:
 
 ```
 
