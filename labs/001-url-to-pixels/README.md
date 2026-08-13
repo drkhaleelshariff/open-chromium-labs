@@ -228,7 +228,7 @@ Major responsibilities are distributed across processes and services.
 
 At a high level, you will encounter components such as :
 
-'''
+```
 
 Browser Process
 
@@ -262,7 +262,7 @@ Browser Process
 
 &#x20;                            V8
 
-'''
+```
 
 Browser / Renderer / Services
 
