@@ -1000,7 +1000,7 @@ For tracing and performance investigation, Chromium uses Perfetto as its tracing
 
 **18. Coming Next**
 
-**```**
+
 
 Lab 002 — Inside the Chromium Process Model
 
