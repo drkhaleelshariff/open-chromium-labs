@@ -146,13 +146,13 @@ BLINK
 
 v         v    v
 
-HTML       CSS   JS
+HTML     CSS   JS
 
 |         |    |
 
 v         v    v
 
-DOM       Style  V8
+DOM     Style  V8
 
 |         |    |
 
