@@ -636,7 +636,7 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 &#x20;             ▼
 
-```       Browser Process
+&#x20;      Browser Process
 
 &#x20;             │
 
@@ -668,7 +668,7 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 &#x20;           Blink
 
-&#x20;               │
+&#x20;               │```
 
 &#x20;      ┌──────┴──────┐
 
