@@ -902,7 +902,7 @@ L6 Expert
 
 **15. Prerequisites**
 
-**```**
+
 
 You should have:
 
