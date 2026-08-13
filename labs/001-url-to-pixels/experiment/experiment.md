@@ -294,19 +294,17 @@ Look at the phases reported by DevTools.
 
 
 
-You may see stages associated with activities such as:
+**You may see stages associated with activities such as:**
 
+**- Queueing**
 
+**- Connection**
 
-\- Queueing
+**- Request**
 
-\- Connection
+**- Waiting**
 
-\- Request
-
-\- Waiting
-
-\- Download
+**- Download**
 
 
 
@@ -338,7 +336,7 @@ If available for the selected request, inspect the Initiator information.
 
 
 
-Ask:
+**Ask:**
 
 **> What caused this request to occur?**
 
@@ -348,15 +346,15 @@ For the main document navigation, think about the relationship between:
 
 
 
-&#x20;   User action
+&#x20;   **User action**
 
-&#x20;       ↓
+&#x20;       **↓**
 
-&#x20;   Navigation
+&#x20;   **Navigation**
 
-&#x20;       ↓
+&#x20;       **↓**
 
-&#x20;   Resource request
+&#x20;   **Resource request**
 
 
 
