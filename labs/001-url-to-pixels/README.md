@@ -1059,24 +1059,17 @@ Difficulty: L2 — Observer
 
 License and Attribution
 
-
-
 This repository contains original educational material created for Open Chromium Labs.
-
-
-
-Chromium is an open-source project maintained by the Chromium community and contributors. References to Chromium architecture and implementation are provided for educational purposes.
-
-
-
-Please consult the Chromium project's official documentation and licensing information when using Chromium source code or Chromium-derived materials.
+Chromium is an open-source project maintained by the Chromium community and contributors.
+References to Chromium architecture and implementation are provided for educational purposes.
+Please consult the Chromium project's official documentation and licensing information 
+when using Chromium source code or Chromium-derived materials.
 
 ```
 
 **References**
 
-**```**
-
+```
 \- Chromium Project — official architecture documentation
 
 \- Chromium source code and design documentation
