@@ -852,10 +852,6 @@ concurrent and distributed across multiple processes, threads and services.
 
 **14. Difficulty**
 
-**```**
-
-**```**
-
 L2 — Observer
 
 
