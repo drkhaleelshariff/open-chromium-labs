@@ -4,7 +4,7 @@
 
 
 
-Objective
+**Objective:**
 
 In this experiment, we will observe what happens when Chromium loads a web page.
 
@@ -16,11 +16,7 @@ architecture introduced in Lab 001.
 
 
 
-\---
-
-
-
-\## What We Are Investigating
+**What We Are Investigating?**
 
 
 
