@@ -84,11 +84,11 @@ At a conceptual level, the journey looks like this:
 
 USER
 
-&#x20; |
+|
 
-&#x20; | enters URL
+| enters URL
 
-&#x20; v
+v
 
 +-------------+
 
@@ -96,9 +96,9 @@ USER
 
 +-------------+
 
-&#x20;      |
+|
 
-&#x20;      v
+v
 
 +----------------+
 
@@ -106,11 +106,11 @@ USER
 
 +----------------+
 
-&#x20;      |
+|
 
-&#x20;      | Navigation
+| Navigation
 
-&#x20;      v
+v
 
 +----------------+
 
