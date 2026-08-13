@@ -736,6 +736,8 @@ The important thing is that you can explain the role of each major component.
 
 ```
 
+```
+
 **12. What This Lab Does NOT Cover in Depth**
 
 ```
