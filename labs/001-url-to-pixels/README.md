@@ -292,11 +292,11 @@ Compositor / Viz / GPU
 
 Chromium's architecture intentionally separates important responsibilities into processes and services. This improves robustness and security and provides isolation boundaries between different parts of the browser.
 
-
+```
 
 **5. What is the Browser Process?**
 
-
+```
 
 5\. What Is the Browser Process?
 
