@@ -432,61 +432,61 @@ Once the response is available and the document is processed, Chromium's renderi
 
 A simplified model is:
 
-
+```
 
 HTML
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 DOM
 
-&#x20;│
+│
 
-&#x20;├───────────┐
+├──────────────┐
 
-&#x20;▼              ▼
+▼              ▼
 
 CSS            JavaScript
 
-&#x20;│              │
+│              │
 
-&#x20;▼              ▼
+▼              ▼
 
-Style           V8
+Style          V8
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 Layout
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 Paint
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 Raster / Graphics
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 Compositing
 
-&#x20;│
+│
 
-&#x20;▼
+▼
 
 Display
 
-
+```
 
 The real implementation is considerably more sophisticated.
 
