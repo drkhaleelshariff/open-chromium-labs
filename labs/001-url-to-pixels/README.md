@@ -492,7 +492,9 @@ The real implementation is considerably more sophisticated.
 
 
 
-This lab intentionally gives you the conceptual model. Later labs will investigate Blink, painting, compositing, Viz and GPU architecture separately.
+This lab intentionally gives you the conceptual model. 
+
+Later labs will investigate Blink, painting, compositing, Viz and GPU architecture separately.
 
 ```
 
