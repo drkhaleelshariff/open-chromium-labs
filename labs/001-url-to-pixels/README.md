@@ -92,7 +92,7 @@ At a conceptual level, the journey looks like this:
 
 &#x20;                   ┌──────────────┐
 
-&#x20;                   │   Omnibox    │
+&#x20;                   │   Omnibox	│
 
 &#x20;                   └──────┬───────┘
 
