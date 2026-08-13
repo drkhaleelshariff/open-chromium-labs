@@ -226,7 +226,7 @@ Major responsibilities are distributed across processes and services.
 
 
 
-At a high level, you will encounter components such as:
+At a high level, you will encounter components such as :
 
 
 
