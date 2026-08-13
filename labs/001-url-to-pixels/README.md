@@ -298,8 +298,6 @@ Chromium's architecture intentionally separates important responsibilities into 
 
 ```
 
-5\. What Is the Browser Process?
-
 The Browser Process is responsible for coordinating major browser-level activities.
 
 
@@ -328,11 +326,11 @@ It is important not to think of the Browser Process as simply "the process that 
 
 The page itself is rendered primarily within renderer-side components.
 
-
+```
 
 **6. What Is the Renderer Process?**
 
-
+```
 
 The Renderer Process handles web content.
 
