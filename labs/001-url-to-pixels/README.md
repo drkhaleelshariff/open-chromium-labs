@@ -844,7 +844,9 @@ GPU
 
 
 
-You should also understand that this is a conceptual model, and that the real Chromium implementation is asynchronous, concurrent and distributed across multiple processes, threads and services.
+You should also understand that this is a conceptual model, and that the real Chromium implementation is asynchronous, 
+
+concurrent and distributed across multiple processes, threads and services.
 
 ```
 
