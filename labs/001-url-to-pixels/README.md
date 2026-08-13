@@ -248,7 +248,7 @@ Browser Process
 
 ▼                     ▼
 
-Network Service    Renderer Process ```
+Network Service    Renderer Process 
 
 .                     │
 
