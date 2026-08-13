@@ -56,23 +56,15 @@ We will use Chrome DevTools to observe the network side of this journey.
 
 
 
-\---
+
+
+**Difficulty**
+
+**L2 — Observer**
 
 
 
-\## Difficulty
-
-
-
-L2 — Observer
-
-
-
-\---
-
-
-
-\## Estimated Time
+Estimated Time
 
 
 
@@ -80,17 +72,11 @@ L2 — Observer
 
 
 
-\---
-
-
-
-\## Prerequisites
+**Prerequisites:**
 
 
 
 You should have:
-
-
 
 \- Chromium installed.
 
@@ -104,49 +90,29 @@ You should have:
 
 
 
-\---
-
-
-
-\# Part 1 — Start Chromium
+**Part 1 — Start Chromium**
 
 
 
 Launch the Chromium browser.
 
-
-
 For this first experiment, use a normal Chromium browser session.
-
-
 
 If you are using a locally built Chromium executable, launch that build.
 
 
 
-\---
-
-
-
-\# Part 2 — Open Developer Tools
+**Part 2 — Open Developer Tools**
 
 
 
 Open Chrome DevTools.
 
-
-
 On Windows/Linux, you can use:
-
-
 
 &#x20;   F12
 
-
-
 or:
-
-
 
 &#x20;   Ctrl + Shift + I
 
@@ -156,17 +122,11 @@ You should see the Developer Tools interface.
 
 
 
-\---
-
-
-
-\# Part 3 — Open the Network Panel
+**Part 3 — Open the Network Panel**
 
 
 
 Select:
-
-
 
 &#x20;   Network
 
@@ -180,41 +140,21 @@ Before navigating to a page, make sure network recording is active.
 
 
 
-\---
-
-
-
-\# Part 4 — Clear Previous Activity
-
-
+**Part 4 — Clear Previous Activity**
 
 Clear the existing network entries.
 
-
-
 We want the next navigation to produce a clean observation.
-
-
 
 The objective is to make the experiment repeatable.
 
 
 
-\---
-
-
-
-\# Part 5 — Navigate to the Test Page
-
-
+**Part 5 — Navigate to the Test Page**
 
 In the browser's address bar, enter:
 
-
-
 &#x20;   https://example.com
-
-
 
 Press Enter.
 
@@ -222,21 +162,13 @@ Press Enter.
 
 Observe the Network panel while the page loads.
 
-
-
 Do not immediately inspect individual requests.
-
-
 
 First, simply observe the complete activity.
 
 
 
-\---
-
-
-
-\# Observation 1 — How Many Requests?
+**Observation 1 — How Many Requests?**
 
 
 
