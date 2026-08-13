@@ -248,11 +248,11 @@ Browser Process
 
 ▼                     ▼
 
-&#x20;Network Service    Renderer Process
+Network Service    Renderer Process
 
-&#x20;                       │
+&#x20;                     │
 
-&#x20;                             ▼
+&#x20;                     ▼
 
 &#x20;                           Blink
 
