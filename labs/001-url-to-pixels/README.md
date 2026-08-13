@@ -362,11 +362,11 @@ Blink is the rendering engine used by Chromium for web content.
 
 Chromium's architecture documentation describes the renderer as the process that handles web content and notes its integration with Blink.
 
-
+```
 
 **7. Where Does V8 Fit?**
 
-
+```
 
 JavaScript execution is handled by V8, Google's open-source JavaScript and WebAssembly engine.
 
@@ -418,11 +418,11 @@ Tasks and microtasks
 
 Garbage collection
 
-
+```
 
 **8. From HTML to Pixels**
 
-
+```
 
 Once the response is available and the document is processed, Chromium's rendering pipeline performs many stages of work.
 
@@ -492,11 +492,11 @@ The real implementation is considerably more sophisticated.
 
 This lab intentionally gives you the conceptual model. Later labs will investigate Blink, painting, compositing, Viz and GPU architecture separately.
 
-
+```
 
 **9. Your Mission**
 
-
+```
 
 You are going to investigate what happens when Chromium loads:
 
@@ -534,11 +534,11 @@ The objective is not simply to read about Chromium.
 
 The objective is to observe Chromium behaving as a system.
 
-
+```
 
 **10. Investigation Questions**
 
-
+```
 
 During the lab, try to answer these questions:
 
@@ -616,11 +616,11 @@ Question 10
 
 How can we observe these activities rather than merely read about them?
 
-
+```
 
 **11. What You Should Be Able to Draw**
 
-
+```
 
 At the end of the lab, you should be able to draw a diagram similar to:
 
@@ -730,11 +730,11 @@ Do not worry if your diagram is not identical.
 
 The important thing is that you can explain the role of each major component.
 
-
+```
 
 **12. What This Lab Does NOT Cover in Depth**
 
-
+```
 
 This is an introductory architecture laboratory.
 
@@ -790,11 +790,11 @@ You will encounter these components here as part of the overall journey.
 
 Later labs will investigate them individually.
 
-
+```
 
 **13. Expected Outcome**
 
-
+```
 
 At the end of this laboratory, you should be able to answer:
 
@@ -840,9 +840,11 @@ GPU
 
 You should also understand that this is a conceptual model, and that the real Chromium implementation is asynchronous, concurrent and distributed across multiple processes, threads and services.
 
-
+```
 
 **14. Difficulty**
+
+**```**
 
 L2 — Observer
 
@@ -888,9 +890,11 @@ L5 Internals
 
 L6 Expert
 
-
+```
 
 **15. Prerequisites**
+
+**```**
 
 You should have:
 
@@ -912,11 +916,11 @@ A Chromium source build is not required for the conceptual portion of this lab.
 
 However, this project will eventually use a local Chromium build for deeper experiments.
 
-
+```
 
 **16. The Learning Philosophy**
 
-
+```
 
 Open Chromium Labs follows a simple principle:
 
@@ -968,11 +972,11 @@ Lab 001 begins with observation.
 
 The later laboratories will progressively take you deeper into Chromium's implementation.
 
-
+```
 
 **17. Related Chromium Documentation**
 
-
+```
 
 The Chromium project provides detailed architectural documentation covering its multi-process architecture and how web pages are displayed. These documents are useful references for this laboratory.
 
@@ -980,9 +984,11 @@ The Chromium project provides detailed architectural documentation covering its 
 
 For tracing and performance investigation, Chromium uses Perfetto as its tracing infrastructure.
 
-
+```
 
 **18. Coming Next**
+
+**```**
 
 Lab 002 — Inside the Chromium Process Model
 
@@ -990,9 +996,11 @@ Lab 002 — Inside the Chromium Process Model
 
 In the next laboratory, we will stop looking at Chromium as a single conceptual system and investigate its processes individually.
 
-
+```
 
 **You will examine:**
+
+**```**
 
 Browser Process
 
@@ -1008,11 +1016,11 @@ Network Service
 
 and investigate why Chromium is designed this way.
 
-
+```
 
 **19. Lab Status**
 
-
+```
 
 Status: Foundation / Initial Version
 
@@ -1020,19 +1028,19 @@ Status: Foundation / Initial Version
 
 Lab: 001 of 100
 
-
+```
 
 **Track**: Chromium \& Browser Internals
 
-
+```
 
 Difficulty: L2 — Observer
 
-
+```
 
 **Next**: Lab 002 — Inside the Chromium Process Model
 
-
+```
 
 License and Attribution
 
@@ -1048,9 +1056,11 @@ Chromium is an open-source project maintained by the Chromium community and cont
 
 Please consult the Chromium project's official documentation and licensing information when using Chromium source code or Chromium-derived materials.
 
-
+```
 
 **References**
+
+**```**
 
 \- Chromium Project — official architecture documentation
 
