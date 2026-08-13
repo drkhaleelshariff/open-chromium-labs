@@ -216,73 +216,61 @@ Look at the information provided by DevTools.
 
 
 
-Record:
+**Record:**
 
 
 
-&#x20;   Request URL:
+&#x20;   **Request URL:**
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-&#x20;   Request method:
-
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   Status:
+&#x20;   **Request method:**
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-&#x20;   Content type:
-
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-\---
+&#x20;   **Status:**
+
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-\# Observation 3 — Inspect the Response
+&#x20;   **Content type:**
+
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+
+
+
+
+**Observation 3 — Inspect the Response**
 
 
 
 Open the response information for the main document.
 
-
-
 Look at the returned HTML.
-
-
 
 Ask yourself:
 
-
-
-> Where did this HTML come from?
+**> Where did this HTML come from?**
 
 
 
 The immediate answer is:
 
-
-
-> It was returned by the web server as part of the HTTP response.
+**> It was returned by the web server as part of the HTTP response.**
 
 
 
 But this experiment is asking a deeper question:
 
+**> Which Chromium component obtained this response, and which component**
 
-
-> Which Chromium component obtained this response, and which component
-
-> subsequently processes the web content?
+**> subsequently processes the web content?**
 
 
 
@@ -294,11 +282,7 @@ Use the architecture diagram.
 
 
 
-\---
-
-
-
-\# Observation 4 — Inspect the Timing Information
+**Observation 4 — Inspect the Timing Information**
 
 
 
@@ -330,27 +314,23 @@ The exact information displayed depends on the request and current browser state
 
 
 
-Record anything interesting:
+**Record anything interesting:**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-\---
-
-
-
-\# Observation 5 — Inspect the Initiator
+**Observation 5 — Inspect the Initiator**
 
 
 
@@ -360,9 +340,7 @@ If available for the selected request, inspect the Initiator information.
 
 Ask:
 
-
-
-> What caused this request to occur?
+**> What caused this request to occur?**
 
 
 
@@ -394,11 +372,7 @@ It does not expose the complete internal Chromium call graph.
 
 
 
-\---
-
-
-
-\# Part 6 — Return to the Architecture Diagram
+**Part 6 — Return to the Architecture Diagram**
 
 
 
@@ -406,23 +380,15 @@ Now look at the Lab 001 architecture diagram again.
 
 
 
-Locate:
+**Locate:**
 
+&#x20;   **Browser Process**
 
+&#x20;   **Network Service**
 
-&#x20;   Browser Process
+&#x20;   **External World**
 
-
-
-&#x20;   Network Service
-
-
-
-&#x20;   External World
-
-
-
-&#x20;   Renderer Process
+&#x20;   **Renderer Process**
 
 
 
@@ -430,11 +396,7 @@ Compare those boxes with what you just observed.
 
 
 
-\---
-
-
-
-\# Correlation Exercise
+Correlation Exercise
 
 
 
