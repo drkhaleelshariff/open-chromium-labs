@@ -376,7 +376,7 @@ JavaScript execution is handled by V8, Google's open-source JavaScript and WebAs
 
 Conceptually:
 
-
+```
 
 JavaScript
 
@@ -398,7 +398,7 @@ JavaScript execution
 
 Blink / Web Platform
 
-
+```
 
 V8 and Blink work together but are not the same subsystem.
 
