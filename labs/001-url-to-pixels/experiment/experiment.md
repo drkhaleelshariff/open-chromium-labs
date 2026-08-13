@@ -4,17 +4,11 @@
 
 ```
 
-\## Objective
-
-
+Objective
 
 In this experiment, we will observe what happens when Chromium loads a web page.
 
-
-
 The goal is not to prove every internal implementation detail.
-
-
 
 The goal is to collect observable evidence and connect that evidence to the
 
