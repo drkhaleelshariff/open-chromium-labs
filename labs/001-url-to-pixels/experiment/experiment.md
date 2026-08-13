@@ -110,11 +110,11 @@ Open Chrome DevTools.
 
 On Windows/Linux, you can use:
 
-&#x20;   F12
+&#x20;   **F12**
 
 or:
 
-&#x20;   Ctrl + Shift + I
+&#x20;   **Ctrl + Shift + I**
 
 
 
@@ -128,7 +128,7 @@ You should see the Developer Tools interface.
 
 Select:
 
-&#x20;   Network
+&#x20;   **Network**
 
 
 
@@ -154,9 +154,9 @@ The objective is to make the experiment repeatable.
 
 In the browser's address bar, enter:
 
-&#x20;   https://example.com
+&#x20;   **https://example.com**
 
-Press Enter.
+Press **Enter**.
 
 
 
@@ -174,19 +174,11 @@ First, simply observe the complete activity.
 
 Look at the Network panel.
 
-
-
 Record approximately how many requests were generated.
-
-
 
 Write down your observation:
 
-
-
 &#x20;   Number of requests observed:
-
-
 
 &#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -202,19 +194,13 @@ extensions, platform configuration and other factors can influence a page load.
 
 
 
-\---
-
-
-
-\# Observation 2 — Identify the Main Document
+**Observation 2 — Identify the Main Document**
 
 
 
 Find the request corresponding to:
 
-
-
-&#x20;   example.com
+&#x20;   **example.com**
 
 
 
