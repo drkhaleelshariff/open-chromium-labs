@@ -636,7 +636,7 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 &#x20;             ▼
 
-&#x20;      Browser Process
+```       Browser Process
 
 &#x20;             │
 
