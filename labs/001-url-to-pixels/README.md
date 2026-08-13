@@ -254,13 +254,13 @@ Network Service    Renderer Process
 
 .                     ▼
 
-&#x20;                           Blink
+.                   Blink
 
-&#x20;                             │
+.                     │
 
-&#x20;                             ▼
+.                     ▼
 
-&#x20;                            V8
+.                     V8
 
 ```
 
