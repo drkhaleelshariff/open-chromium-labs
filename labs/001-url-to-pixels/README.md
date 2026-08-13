@@ -296,7 +296,7 @@ Chromium's architecture intentionally separates important responsibilities into 
 
 
 
-#### 5\. What Is the Browser Process?
+5\. What Is the Browser Process?
 
 The Browser Process is responsible for coordinating major browser-level activities.
 
