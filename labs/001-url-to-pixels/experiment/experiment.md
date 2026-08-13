@@ -402,7 +402,7 @@ Complete the following table.
 
 ```
 
-\#------------------------------------------------------------------
+\------------------------------------------------------------------
 
 | Observation                           | Architecture Component |
 
@@ -420,7 +420,7 @@ Complete the following table.
 
 | Web content is processed              |                        |
 
-\#------------------------------------------------------------------
+\------------------------------------------------------------------
 
 ```
 
@@ -464,47 +464,37 @@ This distinction becomes increasingly important in the later laboratories.
 
 
 
-\---
-
-
-
-\# Challenge 1
+**Challenge 1**
 
 
 
 Reload the page.
 
-
-
 Compare the second load with the first load.
 
 
 
-Ask:
+**Ask:**
 
 
 
-> Did everything happen exactly the same way?
+**> Did everything happen exactly the same way?**
 
 
 
-Record your observations.
+**Record your observations.**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-\---
-
-
-
-\# Challenge 2
+**Challenge 2**
 
 
 
@@ -516,55 +506,41 @@ Repeat the experiment.
 
 
 
-Compare:
+**Compare:**
+
+**- Number of requests**
+
+**- Resource types**
+
+**- Response status**
+
+**- Timing**
+
+**- Additional resources**
 
 
 
-\- Number of requests
+**Record at least two differences.**
 
-\- Resource types
+&#x20;   **Difference 1:**
 
-\- Response status
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-\- Timing
+&#x20;   **Difference 2:**
 
-\- Additional resources
-
-
-
-Record at least two differences.
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   Difference 1:
+**Challenge 3 — Think Like a Chromium Engineer**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Consider this statement:**
 
 
 
-&#x20;   Difference 2:
-
-
-
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\---
-
-
-
-\# Challenge 3 — Think Like a Chromium Engineer
-
-
-
-Consider this statement:
-
-
-
-> "I entered a URL and Chromium downloaded the page."
+**> "I entered a URL and Chromium downloaded the page."**
 
 
 
@@ -576,57 +552,41 @@ Try to improve it.
 
 
 
-Write a more precise explanation using at least these terms:
+**Write a more precise explanation using at least these terms:**
+
+**- Browser Process**
+
+**- Navigation**
+
+**- Network Service**
+
+**- Renderer Process**
+
+**- Web content**
 
 
 
-\- Browser Process
+**Your explanation:**
 
-\- Navigation
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-\- Network Service
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-\- Renderer Process
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-\- Web content
-
-
-
-Your explanation:
+&#x20;   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Expected Learning Outcome**
 
 
 
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**After completing this experiment, you should understand that a web navigation**
 
+**is not simply:**
 
-
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-&#x20;   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\---
-
-
-
-\# Expected Learning Outcome
-
-
-
-After completing this experiment, you should understand that a web navigation
-
-is not simply:
-
-
-
-&#x20;   URL → Web Server → Screen
+&#x20;   **URL → Web Server → Screen**
 
 
 
@@ -668,29 +628,23 @@ reaches the web-content side of Chromium.
 
 
 
-\---
+**Evidence to Capture**
 
 
 
-\# Evidence to Capture
+**For your laboratory notebook, capture:**
 
+**1. The Network panel showing the page-load requests.**
 
+**2. The main document request.**
 
-For your laboratory notebook, capture:
+**3. The response information.**
 
+**4. The timing information.**
 
+**5. Your completed correlation table.**
 
-1\. The Network panel showing the page-load requests.
-
-2\. The main document request.
-
-3\. The response information.
-
-4\. The timing information.
-
-5\. Your completed correlation table.
-
-6\. Your answer to Challenge 3.
+**6. Your answer to Challenge 3.**
 
 
 
@@ -698,11 +652,7 @@ Screenshots should be used as experimental evidence rather than decoration.
 
 
 
-\---
-
-
-
-\# Questions to Think About
+**Questions to Think About**
 
 
 
@@ -710,27 +660,17 @@ Before moving to the next experiment, try to answer:
 
 
 
-1\. Where does navigation begin?
+**1. Where does navigation begin?**
 
+**2. Where does network activity become observable?**
 
+**3. Where does the web server fit into the architecture?**
 
-2\. Where does network activity become observable?
+**4. Is the Network panel showing Chromium's internal process boundaries?**
 
+**5. What evidence do we have that the response reached the web-content side?**
 
-
-3\. Where does the web server fit into the architecture?
-
-
-
-4\. Is the Network panel showing Chromium's internal process boundaries?
-
-
-
-5\. What evidence do we have that the response reached the web-content side?
-
-
-
-6\. What information is still invisible to us?
+**6. What information is still invisible to us?**
 
 
 
@@ -742,15 +682,11 @@ It leads directly to the next stage of this laboratory.
 
 
 
-\---
+**Next Experiment**
 
 
 
-\# Next Experiment
-
-
-
-\## Experiment 001-B — From Response to Rendered Web Content
+**Experiment 001-B — From Response to Rendered Web Content**
 
 
 
