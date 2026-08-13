@@ -408,17 +408,17 @@ Complete the following table.
 
 |---------------------------------------|------------------------|
 
-| User enters URL                       | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| User enters URL                       |                        |
 
-| Navigation begins                     | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Navigation begins                     |                        |
 
-| Network request occurs                | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Network request occurs                |                        |
 
-| Web server responds                   | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Web server responds                   |                        |
 
-| HTML becomes available to the browser | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| HTML becomes available to the browser |                        |
 
-| Web content is processed              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Web content is processed              |                        |
 
 \------------------------------------------------------------------
 
