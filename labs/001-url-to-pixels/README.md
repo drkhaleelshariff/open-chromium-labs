@@ -448,7 +448,7 @@ DOM
 
 ```▼              ▼```
 
-CSS            JavaScript
+```CSS            JavaScript```
 
 │              │
 
