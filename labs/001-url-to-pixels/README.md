@@ -114,17 +114,15 @@ v
 
 +----------------+
 
-&#x20;       |
+| DNS / TCP / TLS
 
-&#x20;       | DNS / TCP / TLS
+v
 
-&#x20;       v
+HTTP Response
 
-&#x20;  HTTP Response
+|
 
-&#x20;       |
-
-&#x20;       v
+v
 
 +----------------+
 
@@ -134,67 +132,67 @@ v
 
 +-------+--------+
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;     BLINK
+BLINK
 
-&#x20;       |
+|
 
-&#x20;  +----+----+----+
++----+----+----+
 
-&#x20;  |         |    |
+|         |    |
 
-&#x20;  v         v    v
+v         v    v
 
-&#x20;HTML       CSS   JS
+HTML       CSS   JS
 
-&#x20;  |         |    |
+|         |    |
 
-&#x20;  v         v    v
+v         v    v
 
-&#x20;DOM       Style  V8
+DOM       Style  V8
 
-&#x20;  |         |    |
+|         |    |
 
-&#x20;  +---------+----+
++---------+----+
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;     Layout
+Layout
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;      Paint
+Paint
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;      Skia
+Skia
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;Compositing / Viz
+Compositing / Viz
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20; GPU / Display
+GPU / Display
 
-&#x20;       |
+|
 
-&#x20;       v
+v
 
-&#x20;     PIXELS
+PIXELS
 
 ```
 
