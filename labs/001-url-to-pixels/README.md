@@ -290,7 +290,8 @@ Compositor / Viz / GPU
 
 ```
 
-Chromium's architecture intentionally separates important responsibilities into processes and services. This improves robustness and security and provides isolation boundaries between different parts of the browser.
+Chromium's architecture intentionally separates important responsibilities into processes and services. 
+This improves robustness and security and provides isolation boundaries between different parts of the browser.
 
 ```
 
