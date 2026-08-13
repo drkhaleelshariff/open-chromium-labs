@@ -452,9 +452,9 @@ DOM
 
 ```│              │```
 
-▼              ▼
+```▼              ▼```
 
-Style          V8
+```Style          V8```
 
 │
 
@@ -626,7 +626,7 @@ How can we observe these activities rather than merely read about them?
 
 At the end of the lab, you should be able to draw a diagram similar to:
 
-
+```
 
 &#x20;            URL
 
@@ -724,7 +724,7 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 &#x20;           Pixels
 
-
+```
 
 Do not worry if your diagram is not identical.
 
@@ -934,7 +934,7 @@ Don't just read about Chromium. Observe it. Trace it. Explain it. Then modify it
 
 The progression across the laboratory series is:
 
-
+```
 
 Understand
 
@@ -966,7 +966,7 @@ Engineer
 
 Contribute
 
-
+```
 
 Lab 001 begins with observation.
 
