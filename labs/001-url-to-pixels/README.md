@@ -678,53 +678,53 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 DOM              CSS
 
-└──────┬──────────┘
+└┬────────────────┘
 
-&#x20;      ▼
+&#x20;▼
 
-&#x20;           Layout
+Layout
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;            Paint
+Paint
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;           Graphics
+Graphics
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;         Compositing
+Compositing
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;            Viz
+Viz
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;            GPU
+GPU
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;           Display
+Display
 
-&#x20;             │
+│
 
-&#x20;             ▼
+▼
 
-&#x20;           Pixels
+Pixels
 
 ```
 
