@@ -250,7 +250,7 @@ Browser Process
 
 Network Service    Renderer Process 
 
-```                   │```
+                      │
 
 .                     ▼
 
