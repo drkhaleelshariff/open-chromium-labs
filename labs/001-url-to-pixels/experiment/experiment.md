@@ -74,13 +74,13 @@ Estimated Time
 
 **Prerequisites:**
 
-```
+
 
 You should have:
 
-\- Chromium installed.
+```- Chromium installed.```
 
-\- Basic familiarity with URLs.
+```- Basic familiarity with URLs.```
 
 \- Basic understanding of HTTP/HTTPS.
 
@@ -88,7 +88,7 @@ You should have:
 
 \- The Lab 001 architecture diagram available for reference.
 
-```
+
 
 **Part 1 — Start Chromium**
 
