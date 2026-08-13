@@ -294,6 +294,8 @@ Chromium's architecture intentionally separates important responsibilities into 
 
 
 
+**5. What is the Browser Process?**
+
 
 
 5\. What Is the Browser Process?
