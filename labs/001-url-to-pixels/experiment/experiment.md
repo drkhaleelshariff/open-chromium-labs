@@ -74,7 +74,7 @@ Estimated Time
 
 **Prerequisites:**
 
-
+```
 
 You should have:
 
@@ -88,7 +88,7 @@ You should have:
 
 \- The Lab 001 architecture diagram available for reference.
 
-
+```
 
 **Part 1 — Start Chromium**
 
