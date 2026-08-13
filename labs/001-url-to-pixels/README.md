@@ -360,7 +360,9 @@ Blink is the rendering engine used by Chromium for web content.
 
 
 
-Chromium's architecture documentation describes the renderer as the process that handles web content and notes its integration with Blink.
+Chromium's architecture documentation describes the renderer as the process that handles 
+
+web content and notes its integration with Blink.
 
 ```
 
