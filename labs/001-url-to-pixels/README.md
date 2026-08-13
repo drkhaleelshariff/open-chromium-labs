@@ -672,7 +672,7 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 ```
 
-┌──────┴──────┐
+┌─┴───────────┐
 
 ▼                ▼
 
