@@ -672,17 +672,17 @@ At the end of the lab, you should be able to draw a diagram similar to:
 
 ```
 
-&#x20;      ┌──────┴──────┐
+┌──────┴──────┐
 
-&#x20;      ▼                ▼
+▼                ▼
 
-&#x20;     DOM               CSS
+DOM               CSS
 
-&#x20;      │                 │
+│                 │
 
-&#x20;      └──────┬──────┘
+└──────┬──────┘
 
-&#x20;               ▼
+&#x20;      ▼
 
 &#x20;           Layout
 
