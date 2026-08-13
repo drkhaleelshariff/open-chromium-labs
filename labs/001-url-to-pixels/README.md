@@ -250,9 +250,9 @@ Browser Process
 
 Network Service    Renderer Process
 
-&#x20;│
+.                     │
 
-&#x20;                     ▼
+.                     ▼
 
 &#x20;                           Blink
 
