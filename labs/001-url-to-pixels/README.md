@@ -248,9 +248,9 @@ Browser Process
 
 ▼                     ▼
 
-Network Service    Renderer Process```
+Network Service    Renderer Process ```
 
-```                   │```
+.                     │
 
 .                     ▼
 
@@ -262,7 +262,7 @@ Network Service    Renderer Process```
 
 .                     V8
 
-```
+
 
 Browser / Renderer / Services
 
