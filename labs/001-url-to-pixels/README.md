@@ -242,11 +242,11 @@ Browser Process
 
 └── Coordination
 
-&#x20; │
+│
 
-&#x20; ├────────────┐
+├─────────────────────┐
 
-&#x20; ▼               ▼
+▼                     ▼
 
 &#x20;Network Service    Renderer Process
 
