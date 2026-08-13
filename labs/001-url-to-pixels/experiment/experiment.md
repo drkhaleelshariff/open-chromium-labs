@@ -78,9 +78,9 @@ Estimated Time
 
 You should have:
 
-```- Chromium installed.```
+\- Chromium installed.
 
-```- Basic familiarity with URLs.```
+\- Basic familiarity with URLs.
 
 \- Basic understanding of HTTP/HTTPS.
 
