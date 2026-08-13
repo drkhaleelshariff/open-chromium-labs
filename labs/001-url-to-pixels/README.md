@@ -926,6 +926,8 @@ However, this project will eventually use a local Chromium build for deeper expe
 
 ```
 
+```
+
 **16. The Learning Philosophy**
 
 ```
