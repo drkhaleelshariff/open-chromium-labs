@@ -306,21 +306,13 @@ The Browser Process is responsible for coordinating major browser-level activiti
 Among other responsibilities, it participates in:
 
 
-
-Browser UI
-
-Navigation
-
+Browser-level seroordination
 Process management
-
-Coordination with renderer processes
-
-Browser-level services
-
-Security-sensitive operations
-
-
-
+Navigation
+Browser UI
+Policy and permission handling
+Communication with other processes/services
+ 
 It is important not to think of the Browser Process as simply "the process that displays the page."
 
 
