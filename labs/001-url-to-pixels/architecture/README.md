@@ -26,7 +26,7 @@ presentation.
 
 
 
-!\[Lab 001 Architecture](Lab001-URL-to-Pixels-Architecture-v1.0.png)
+![Lab 001 Architecture](Lab001-URL-to-Pixels-Architecture-v1.0.png)
 
 
 
