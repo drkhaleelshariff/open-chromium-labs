@@ -1023,6 +1023,44 @@ and investigate why Chromium is designed this way.
 
 ```
 
+## Evidence Produced
+
+This lab is supported by evidence captured during the accompanying experiment:
+
+**Experiment:** 001-A — Observe Web Navigation  
+**Run:** Run-01
+
+The evidence covers the journey from browser startup and navigation through network activity, DOM inspection, style resolution, layout, paint and performance tracing.
+
+### Evidence categories
+
+| Evidence | What it demonstrates |
+|---|---|
+| Chromium build and version | Identifies the Chromium build used |
+| Navigation request | Observes the navigation request |
+| Request headers | Examines request metadata |
+| Network timing | Observes network timing information |
+| Network response | Examines the response |
+| Initiator | Investigates request initiation information |
+| DOM inspection | Observes the resulting document structure |
+| Style resolution | Examines CSS/style information |
+| Computed style | Examines resolved CSS values |
+| Layout geometry | Observes element geometry |
+| Paint Flashing | Observes repaint activity |
+| Performance trace | Observes browser/rendering activity |
+| HTML parsing | Observes parsing activity in the trace |
+| Style recalculation | Observes style recalculation |
+| Layout | Observes layout activity |
+| Paint | Observes paint activity |
+| GPU event | Observes GPU-related trace activity |
+
+The complete screenshot evidence is stored under:
+
+`experiments/001-a-observe-web-navigation/evidence/run-01/`
+
+> **Evidence principle:** The screenshots document what was observed. They do not, by themselves, prove the complete internal Chromium implementation path. Deeper experiments will connect these observations to tracing and source code.
+
+
 ## 19. Lab Status
 
 ```
