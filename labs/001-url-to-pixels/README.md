@@ -1,6 +1,6 @@
-#### **Chromium Internals Lab 001**
+# Chromium Internals Lab 001
 
-#### **URL to Pixels: The Complete Chromium Journey**
+## URL → Pixels: The Complete Chromium Journey
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-**1. The Question**
+## 1. The Question
 
 
 
@@ -42,8 +42,7 @@ In this lab, you will follow that journey.
 
 
 
-**2. What You Will Learn?**
-
+## 2. What You Will Learn
 
 
 By the end of this lab, you should be able to:
@@ -74,7 +73,7 @@ Use Chromium tracing to investigate browser activity.
 
 Correlate observable behaviour with Chromium's architecture.
 
-**3. The Big Picture**
+## 3. The Big Picture
 
 
 
@@ -214,7 +213,7 @@ The purpose of this lab is to build the correct mental model first. Later labs w
 
 
 
-**4. Chromium's Multi-Process Architecture**
+## 4. Chromium's Multi-Process Architecture
 
 
 
@@ -295,8 +294,7 @@ This improves robustness and security and provides isolation boundaries between 
 
 ```
 
-**5. What is the Browser Process?**
-
+## 5. What is the Browser Process?
 ```
 
 The Browser Process is responsible for coordinating major browser-level activities.
@@ -321,7 +319,7 @@ The page itself is rendered primarily within renderer-side components.
 
 ```
 
-**6. What Is the Renderer Process?**
+## 6. What Is the Renderer Process?
 
 ```
 
@@ -359,7 +357,7 @@ web content and notes its integration with Blink.
 
 ```
 
-**7. Where Does V8 Fit?**
+## 7. Where Does V8 Fit?
 
 ```
 
@@ -415,7 +413,7 @@ Garbage collection
 
 ```
 
-**8. From HTML to Pixels**
+## 8. From HTML to Pixels
 
 ```
 
@@ -491,7 +489,7 @@ Later labs will investigate Blink, painting, compositing, Viz and GPU architectu
 
 ```
 
-**9. Your Mission**
+## 9. Your Mission
 
 ```
 
@@ -533,7 +531,7 @@ The objective is to observe Chromium behaving as a system.
 
 ```
 
-**10. Investigation Questions**
+## 10. Investigation Questions
 
 ```
 
@@ -615,7 +613,7 @@ How can we observe these activities rather than merely read about them?
 
 ```
 
-**11. What You Should Be Able to Draw**
+## 11. What You Should Be Able to Draw
 
 ```
 
@@ -731,7 +729,7 @@ The important thing is that you can explain the role of each major component.
 
 ```
 
-**12. What This Lab Does NOT Cover in Depth**
+## 12. What This Lab Does NOT Cover in Depth
 
 ```
 
@@ -791,7 +789,7 @@ Later labs will investigate them individually.
 
 ```
 
-**13. Expected Outcome**
+## 13. Expected Outcome
 
 ```
 
@@ -843,7 +841,7 @@ concurrent and distributed across multiple processes, threads and services.
 
 ```
 
-**14. Difficulty**
+## 14. Difficulty
 
 L2 — Observer
 
@@ -893,7 +891,7 @@ L6 Expert
 
 ```
 
-**15. Prerequisites**
+## 15. Prerequisites
 
 
 
@@ -921,7 +919,7 @@ However, this project will eventually use a local Chromium build for deeper expe
 
 ```
 
-**16. The Learning Philosophy**
+## 16. The Learning Philosophy
 
 ```
 
@@ -977,7 +975,7 @@ The later laboratories will progressively take you deeper into Chromium's implem
 
 ```
 
-**17. Related Chromium Documentation**
+## 17. Related Chromium Documentation
 
 ```
 
@@ -991,7 +989,7 @@ For tracing and performance investigation, Chromium uses Perfetto as its tracing
 
 ```
 
-**18. Coming Next**
+## 18. Coming Next
 
 
 
@@ -1025,7 +1023,7 @@ and investigate why Chromium is designed this way.
 
 ```
 
-**19. Lab Status**
+## 19. Lab Status
 
 ```
 
